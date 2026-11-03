@@ -1,7 +1,7 @@
 <h3 align="center">👋 Hello! I'm Potato / 土豆.</h3>
 
 <p align="center">NUIST · IoT Engineering · Nanjing · Class of 2027</p>
-<p align="center">海上修机师 · ex-Lead · <a href="https://www.nuist.link/team/2023.html#cat-head">修机猫猫头</a></p>
+<p align="center">海上修机师 · ex-Lead · <a href="https://www.nuist.dev/archive/members/entries/%E6%B1%9F%E6%A5%A0.html">修机猫猫头</a></p>
 
 <p align="center">
   <img src="./cm-mariner-card.svg" alt="CM Mariner — 海上修机师" width="560" />
